@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-israel-tenders",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Israel Government Procurement MCP — public tenders & exemption contracts (keyless).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "israel-tenders",
     "gatewaySlug": "israel-tenders",
-    "sourceHash": "v1-ef9d8aa8cc1129bb4cd3c584b511c0b26fdb8a6a171ec54271870e5a84448296",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-47127b78afc92813e7796cede73bf01bfc0f6795f30a3bc01e1a4787f0e6ae35",
+    "sourceCommit": "0ca9712c0ac03bb0121cc7e81b202d0c45ac02ca"
   }
 }
